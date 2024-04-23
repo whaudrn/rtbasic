@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rtbasic/static/css/main.b3b3d474.css",
+    "main.js": "/rtbasic/static/js/main.3afed919.js",
+    "index.html": "/rtbasic/index.html",
+    "main.b3b3d474.css.map": "/rtbasic/static/css/main.b3b3d474.css.map",
+    "main.3afed919.js.map": "/rtbasic/static/js/main.3afed919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3b3d474.css",
+    "static/js/main.3afed919.js"
+  ]
+}
